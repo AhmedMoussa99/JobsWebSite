@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\JobWebSite",
+    "\\JobWebSite\\App_Data",
+    "\\JobWebSite\\obj"
   ],
+  "SelectedNode": "\\JobWebSite\\obj\\Debug",
   "PreviewInSolutionExplorer": false
 }
